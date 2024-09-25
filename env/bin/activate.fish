@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/hpc/testing/streamLit/streamlitProject1/MultiPage_app/env"
+set -gx VIRTUAL_ENV "/home/hpc/testing/streamLit/streamlit-projects/data-analysis/env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
